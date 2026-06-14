@@ -1,4 +1,4 @@
-# supply-chain-etl-pipeline
+
 # Supply Chain ETL Pipeline & Analytics Console
 
 An end-to-end data engineering pipeline that simulates an enterprise supply chain logistics system, transforms raw data streams, and loads them into a structured database tier for operational analytics. 
